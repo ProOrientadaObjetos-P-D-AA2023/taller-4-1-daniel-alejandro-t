@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "problema4/problema4/src/paquete1",
+        "problema4/problema4/src",
+        "problema3/problema3/src",
+        "problema2/problema2/src",
+        "problema1/problema1/src/paquete1",
+        "problema1/problema1/src/pro1paquete1/paquete1"
+    ]
+}
