@@ -1,5 +1,6 @@
 package pro1paquete1;
 
+import pro1paquete3.universidad;
 
 public class App { 
     public static void main(String[] args) throws Exception {
